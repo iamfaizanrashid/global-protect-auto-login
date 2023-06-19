@@ -1,0 +1,1 @@
+# global-protect-auto-login
